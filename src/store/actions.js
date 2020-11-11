@@ -1,0 +1,2 @@
+export const ADDED_PERSON = 'ADDED_PERSON';
+export const DELETED_PERSON = 'DELETED_PERSON';
